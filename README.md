@@ -9,8 +9,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
+  - [Active Directory Bulk User Creation](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
 - <b>Python</b>
   - [Network Traffic Analyzer](https://github.com/ajithchandranr/network_traffic_analyzer)
   - [Automated Firewall Rule Generator for Windows and Linux](https://github.com/ajithchandranr/firewall_rule_generator)
