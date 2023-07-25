@@ -24,10 +24,9 @@
 
 - [CompTIA: Network+](https://www.credly.com/badges/ec412a0f-5725-44f1-a336-615275c37662/public_url)
 - [CompTIA: Security+](https://www.credly.com/badges/1e1a4a39-70fc-475d-84d4-8cee542d00ae/public_url)
-- Currently Studying
-<br>Microsoft Azure Fundamentals
-<br>Splunk Core
-
+- Certifications in Progress 
+  - Microsoft Certified: Azure Fundamentals (AZ-900)
+  - Splunk Core Certified User
 
 <h2> 🤳 Connect with me:</h2>
 
