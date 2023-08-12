@@ -2,15 +2,15 @@
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
-- [Microsoft Sentinel Live Attack Demonstration Home Lab](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
+- [Microsoft Sentinel Live Attack Demonstration Home Lab](https://ajithchandranr.github.io/portfolio/home-lab-siem-microsoft-sentinel.html)
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
-- [Nessus Essentials Vulnerability Management Lab](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
+- [Nessus Essentials Vulnerability Management Lab](https://ajithchandranr.github.io/portfolio/vulnerability-scanning-nessus-essentials.html)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
-  - [Active Directory Bulk User Creation](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-1.html)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://ajithchandranr.github.io/portfolio/home-lab-siem-microsoft-sentinel.html)
+  - [Active Directory Bulk User Creation](https://ajithchandranr.github.io/portfolio/home-lab-active-directory-part-2.html)
 - <b>Python</b>
   - [Network Traffic Analyzer](https://github.com/ajithchandranr/network_traffic_analyzer)
   - [Automated Firewall Rule Generator for Windows and Linux](https://github.com/ajithchandranr/firewall_rule_generator)
@@ -30,9 +30,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ajith Chandran | Website" width="22px" src="https://github.com/acrkmr/acrkmr.github.io/blob/main/assets/vendor/boxicons/bx-globe.svg"/>][Website]
-[<img align="left" alt="Ajith Chandran | LinkedIn" width="22px" src="https://github.com/acrkmr/acrkmr.github.io/blob/main/assets/vendor/boxicons/bxl-linkedin-square.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://github.com/acrkmr/acrkmr.github.io/blob/main/assets/vendor/boxicons/bxl-twitter.svg" />][twitter]
+[<img align="left" alt="Ajith Chandran | Website" width="22px" src="https://github.com/ajithchandranr/ajithchandranr.github.io/blob/main/assets/vendor/boxicons/bx-globe.svg"/>][Website]
+[<img align="left" alt="Ajith Chandran | LinkedIn" width="22px" src="https://github.com/ajithchandranr/ajithchandranr.github.io/blob/main/assets/vendor/boxicons/bxl-linkedin-square.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://github.com/ajithchandranr/ajithchandranr.github.io/blob/main/assets/vendor/boxicons/bxl-twitter.svg" />][twitter]
 
 
 [Website]: https://ajithchandranr.github.io
